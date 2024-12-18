@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Site Metadata
-title:               "Poesía de Juana Borrero"
-tagline:             "(1877-1896)"
-description:         "Una colección de los poemas de Juana Borrero, pintora y poeta modernista cubana."
+title:               "Paisaje de arcilla"
+tagline:             "de Alejandro Aguilar"
+description:         "Una obra literaria sobre los vínculos existentes entre el totalitarismo militar y la educación en Cuba"
 url:                 "https://eluispr.github.io"
-baseurl:             "/juana" # Adjust to match your GitHub repository name if it's hosted in a subdirectory.
+baseurl:             "/paisajedearcilla"
 
 # About/Contact Information
 author:
@@ -14,7 +14,7 @@ author:
   email:             "lpriet9@gmail.com"
 
 # Color Scheme for the Theme (Options: red, orange, magenta, cyan, blue, brown)
-color-scheme:        
+color-scheme: "blue"        
 
 # Permalinks Configuration
 permalink: pretty
