@@ -1,4 +1,4 @@
-# Edición de Juana Borrero
+# Edición de Paisaje de Arcilla
 
-[Agrega info aquí. Breve]
+_Paisaje de arcilla_ es una obra literaria sobre los vínculos existentes entre el totalitarismo militar y la educación en Cuba. 
 
