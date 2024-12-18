@@ -1,0 +1,66 @@
+# Built with Jekyll 3.6.0
+
+# Site Metadata
+title:               "Poesía de Juana Borrero"
+tagline:             "(1877-1896)"
+description:         "Una colección de los poemas de Juana Borrero, pintora y poeta modernista cubana."
+url:                 "https://eluispr.github.io"
+baseurl:             "/juana" # Adjust to match your GitHub repository name if it's hosted in a subdirectory.
+
+# About/Contact Information
+author:
+  name:              "Luis Prieto"
+  url:               "https://eluispr.github.io/juana"
+  email:             "lpriet9@gmail.com"
+
+# Color Scheme for the Theme (Options: red, orange, magenta, cyan, blue, brown)
+color-scheme:        
+
+# Permalinks Configuration
+permalink: pretty
+permalink:           "/:collection/:title/" # Organize by collection and title
+
+# Site Encoding
+encoding:            "utf-8"
+
+# Collections Configuration for Texts
+collections:
+  texts:
+    output: true
+    permalink: "/texts/:title/" # Organize the texts collection with clean permalinks
+
+# Markdown Processor and Options
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Exclusions from the Final Site Build
+exclude:
+  - optional
+  - vendor
+  - ed..gemspec
+  - Gemfile
+  - Gemfile.lock
+  - backstop_data
+  - backstop.json
+
+# Theme Configuration
+# Uncomment the `theme` line if using the Ed. theme locally or on a custom server
+# theme: "ed."
+
+# Remote Theme for GitHub Deployments
+remote_theme: minicomp/ed
+
+# Plugins Configuration
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  # Uncomment jekyll-scholar if you need bibliography support and have resolved potential conflicts
+  # - jekyll-scholar

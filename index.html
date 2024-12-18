@@ -1,0 +1,35 @@
+---
+layout: default
+title: "Poemas de Juana Borrero"
+---
+<html> 
+<head>
+  <title>Poemas de Juana Borrero</title>
+</head>
+<div class="introduction">
+  <img src="{{ site.baseurl }}/assets/images.png" alt="Las niñas" style="text-align: center; max-width: 300px; border-radius: 8px; margin: 20px auto; display: block;">
+  <h1 style="font-weight: bold; color: #800000;">Sobre la poesía de Juana Borrero</h1>
+<body></body>
+<p>
+La poesía de Juana Borrero habla del amor romántico, la amistad y la pasión por la belleza en la adolescencia. Teniendo entre catorce y dieciocho años (1891-1896), Borrero publicó sus poemas en periódicos como <i>El Fígaro</i> y <i>La Habana Elegante</i>. Además, publicó su único poemario <i>Rimas</i> en 1895.
+</p>
+<small>Cuadro "Las niñas" de Juana Borrero, expuesto en el Museo Nacional de Bellas Artes de Cuba.</small>
+</body>
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>Poemas</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+</html>
