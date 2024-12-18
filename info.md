@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Del autor, el traductor y el editor
+title: Sobre el autor, el traductor y el editor
 ---
-<h1 style="font-weight: bold; color: #008080;">Del autor</h1>
+<h1 style="font-weight: bold; color: #008080;">Sobre el autor</h1>
 
-<h1 style="font-weight: bold; color: #008080;">Del traductor</h1>  
+<h1 style="font-weight: bold; color: #008080;">Sobre el traductor</h1>  
 
-<h1 style="font-weight: bold; color: #008080;">Del editor</h1>  
+<h1 style="font-weight: bold; color: #008080;">Sobre el editor</h1>  
 
 <img src="{{ site.baseurl }}/assets/profile.png" alt="Luis Prieto" style="text-align: center; max-width: 200px; border-radius: 8px; margin: 20px auto; display: block;">
 
