@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Info
 ---
 <h1 style="font-weight: bold; color: #75aadb;">Sobre el autor</h1>
 <img src="{{ site.baseurl }}/assets/alejandro.jpg" alt="Luis Prieto" style="text-align: center; max-width: 200px; border-radius: 8px; margin: 20px auto; display: block;">
