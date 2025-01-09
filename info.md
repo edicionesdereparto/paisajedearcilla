@@ -27,10 +27,10 @@ Andrew Hurley is an U.S. American academic and translator. He is primarily known
 <h1 style="font-weight: bold; color: #75aadb;">Sobre el editor</h1>  
 <img src="{{ site.baseurl }}/assets/profile.png" alt="Luis Prieto" style="text-align: center; max-width: 200px; border-radius: 8px; margin: 20px auto; display: block;">
 <p>
-Luis Prieto (La Habana, Cuba. 1998) es estudiante de doctorado en la facultad de Español y Portugués en la Universidad Yale. Su dirección de correo electrónico es soldeaguacero@gmail.com. 
+Luis Prieto (La Habana, Cuba. 1998) es estudiante de doctorado en la facultad de Español y Portugués en la Universidad Yale. Su dirección de correo electrónico es lpriet9@gmail.com. 
 </p>
 <p>
-Luis Prieto is a Ph.D. student in the Department of Spanish and Portuguese at Yale University. His e-mail address is soldeaguacero@gmail.com. 
+Luis Prieto is a Ph.D. student in the Department of Spanish and Portuguese at Yale University. His e-mail address is lpriet9@gmail.com. 
 <p>
 <small>Fotógrafo: Danni Rigual, 2021</small>
 </p>
