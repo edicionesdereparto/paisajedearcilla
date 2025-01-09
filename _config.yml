@@ -4,13 +4,13 @@
 title:               "Paisaje de arcilla"
 tagline:             "de Alejandro Aguilar"
 description:         "Una obra literaria sobre los vínculos existentes entre el totalitarismo militar y la educación en Cuba"
-url:                 "https://eluispr.github.io"
+url:                 "https://edicionesdereparto.github.io"
 baseurl:             "/paisajedearcilla"
 
 # About/Contact Information
 author:
   name:              "Luis Prieto"
-  url:               "https://eluispr.github.io/paisajedearcilla"
+  url:               "https://edicionesdereparto.github.io/paisajedearcilla"
   email:             "lpriet9@gmail.com"
 
 # Color Scheme for the Theme (Options: red, orange, magenta, cyan, blue, brown)
